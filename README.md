@@ -47,6 +47,7 @@ Moreover, my process of coding is extremely flawed and unstructured, picking off
 ### Useful resources
 
 - [W3schools](https://www.w3schools.com/) and various SO Pages - Helped me get back on track with CSS
+- [Dreamleaf](https://www.frontendmentor.io/profile/Dreamleaf) & [Dipesh](https://www.frontendmentor.io/profile/ddkogit) - Feedback and improvements on code
 
 ## Author
 
