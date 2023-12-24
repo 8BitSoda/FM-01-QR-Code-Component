@@ -4,8 +4,8 @@ body {
     justify-content: center;
     align-items: center;
 
-    font-family: outfit, consolas;
-    background-color: hsl(212, 45%, 89%);
+    font-family: 'outfit', consolas;
+    background-color: #d6e2f0;
 }
 
 .qr-component {
@@ -18,7 +18,7 @@ body {
     width: 256px;
     border-radius: 12px;
 
-    box-shadow: 0px 4px 6px 0px hsl(220, 15%, 55%);
+    box-shadow: 0px 4px 6px 0px #7b879d;
     background-color: white;
 }
 
